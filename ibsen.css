@@ -1,0 +1,50 @@
+.billing {
+    color:aqua;
+}
+.aslaksen{
+    color:blue
+}
+.hovstad {
+color:chocolate
+}
+.stockman {
+    color:darkgray
+}
+.direction {
+    color:rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: bisque;
+}
+table{
+    border: 3px solid #2b2424;
+    color:black;
+    text-align: left;
+
+}
+table td{
+    text-align: left;
+    padding: 10px;
+    border: 1px solid#0c0000;
+}
+table th{
+    color:black;
+    text-align: left;
+    padding: 10px;
+    border: 3px solid #0c0000;
+}
+tr:nth-child(odd) {
+    background-color: #eceebf;
+}
+div.aslaksen:hover{
+    color:aquamarine;
+    text-shadow: 2px 2px 5px rebeccapurple;
+}
+div.hovstad:hover{
+    color:aquamarine;
+    text-shadow: 2px 2px 5px rebeccapurple;
+}
+div.stockman:hover{
+    color:aquamarine;
+    text-shadow: 2px 2px 5px rebeccapurple;
+}
